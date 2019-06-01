@@ -1,0 +1,57 @@
+
+#app[data-v-1b422771] {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html[data-v-1b422771] {
+  min-height: 100vh;
+}
+*[data-v-1b422771]{
+  box-sizing: border-box;
+}
+
+pre[data-v-765126a5]{
+}
+@media (max-width:500px){
+pre[data-v-765126a5]{
+}
+}
+.code[data-v-765126a5] {
+  display: none;
+}
+
+@media (max-width:500px){
+.resumeEditor[data-v-3608f6e3]{
+}
+}
+.htmlMode[data-v-3608f6e3] {
+  animation: flip 2s;
+}
+@keyframes flip {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+*{margin: 0; padding: 0;}
+*{box-sizing: border-box;}
+*::before{box-sizing: border-box;}
+*::after{box-sizing: border-box;}
+#app[data-v-674ec402] {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh; position: relative;
+}
+html[data-v-674ec402] {
+  min-height: 100vh;
+}
+*[data-v-674ec402]{
+  box-sizing: border-box;
+}
+
+
+/*# sourceMappingURL=app.8d10568cac9ab64cd4f2f9c6e819aaf3.css.map*/
