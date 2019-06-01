@@ -1,3 +1,3 @@
 #个人简历
-[预览](https://drelightlee.github.io/Personal-profile/Personal%20profile)
+[预览](https://drelightlee.github.io/Personal-profile/Public)
 
