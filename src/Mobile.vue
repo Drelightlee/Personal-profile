@@ -23,11 +23,11 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘
-* 你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* 大家好，我是李梦阳，前端的一名小学生
+* 七月份即将毕业的我打算在五月离开目前的实习工作
+* 放下手中的业务代码。
+* 沉淀一下自己的知识，
+* 正好以此作为github上的第一个小项目。
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -37,7 +37,7 @@
 /* 白色背景太单调了，我们来点背景 */
 html {
   color: rgb(222,222,222);
-  background: rgb(0,43,54);
+  background: #1e1e1e;
 }
 /* 文字离边框太近了 */
 .styleEditor {
@@ -128,37 +128,27 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `李梦阳
 ----
 
-资深前端工程师，资深前端讲师
-现在在 [饥人谷](http://jirengu.com) 教前端课程。
+前端的一个小学生:)
 
 技能
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* ES6
+* Vue
+* JQ,Bootstrap,echats,antd叭啦叭啦...（还会一点点C#和mysql~）
 
-工作经历
+
+实习经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. 北京联合大学食品安全监测中心
+2. 赛尔互联（中国教育在线）
 
-链接
-----
-
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
-
-> 如果你喜欢这个效果，
-Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
-
+水平一般，能力有限，还会继续努力。。。
+感谢您花时间来阅读我的简历，希望能够有更进一步的交流。
 `
       }
     },
