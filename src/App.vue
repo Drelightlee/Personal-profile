@@ -114,7 +114,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `李梦阳
+        fullMarkdown: `李梦阳 
 ----
 
 前端的一个小学生:)
